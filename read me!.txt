@@ -1,5 +1,6 @@
 0. python 설치하기
-함께 배포된 "python-3.7.9-amd64" 파일을 실행하여 설치합니다.
+https://www.python.org/downloads/release/python-379/
+위 링크의 "Windows x86-64 executable installer" 파일을 다운 받아 설치합니다.
 설치 시 Add .path 여부를 꼭!! 체크해주세요.
 혹시 이미 파이썬 3.7이 설치되어있다면 건너뛸 수 있습니다.
 
@@ -19,4 +20,4 @@
 제거하지 않아도 문제는 없습니다.
 
 5. python 제거하기
-함께 배포된 "python-3.7.9-amd64" 파일을 다시 실행하여 설치를 제거할 수 있습니다.
+파이썬 설치 시 사용한 "python-3.7.9-amd64" 파일을 다시 실행하여 설치를 제거할 수 있습니다.
